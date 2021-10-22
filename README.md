@@ -1,3 +1,13 @@
+Netflix Clone usando React Redux y la API de películas [TheMovieDB](https://www.themoviedb.org/documentation/api)
+
+
+![image](https://user-images.githubusercontent.com/51823158/138514739-e5730a5b-f691-4013-bd21-65634ae1dddd.png)
+
+
+![image](https://user-images.githubusercontent.com/51823158/138514784-b729e04f-081e-45c3-abd6-eeaae30e3b5e.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
